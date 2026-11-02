@@ -1,0 +1,19 @@
+NOTICE
+======
+
+This repository packages pre-existing Agent Skill content into a ZCode plugin.
+It contains no original skill authorship.
+
+Skill content (skills/remotion/SKILL.md and rules/*):
+  - Taken from: https://github.com/buainoai/remotion-skills (Chinese edition)
+  - Original source: https://github.com/remotion-dev/skills
+    (itself part of the Remotion monorepo: remotion-dev/remotion, packages/skills)
+  - Neither upstream repository ships an explicit LICENSE file. The Chinese
+    edition states it follows the same license as remotion-dev/skills.
+  - Local modification: the `description` field in SKILL.md frontmatter was
+    expanded so ZCode agents can trigger the skill more reliably. All rule
+    files are unmodified.
+
+The Remotion framework itself is source-available under its own license
+(free for individuals and small teams; see https://www.remotion.pro/).
+This NOTICE does not change any upstream terms.

@@ -1,0 +1,14 @@
+{
+  "name": "remotion-skills",
+  "version": "0.1.0",
+  "description": "Remotion 最佳实践技能库 — 用 React 代码化创作视频：动画、时序、序列编排、音视频、字幕、3D、图表、转场、Tailwind、参数化与渲染优化（中文，30+ 规则）。",
+  "author": {
+    "name": "APX103",
+    "url": "https://github.com/APX103"
+  },
+  "homepage": "https://github.com/APX103/remotion-zcode",
+  "repository": "https://github.com/APX103/remotion-zcode",
+  "license": "SEE NOTICE",
+  "keywords": ["remotion", "video", "react", "animation", "captions", "3d", "skills"],
+  "skills": "./skills"
+}

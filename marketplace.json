@@ -1,0 +1,21 @@
+{
+  "name": "remotion-zcode",
+  "description": "Remotion video-creation skills for ZCode — Chinese best-practice library packaged from buainoai/remotion-skills (originally remotion-dev/skills).",
+  "owner": {
+    "name": "APX103",
+    "url": "https://github.com/APX103"
+  },
+  "plugins": [
+    {
+      "name": "remotion-skills",
+      "source": "./remotion-skills",
+      "version": "0.1.0",
+      "description": "Remotion best practices as an Agent Skill: animations, timing, sequencing, audio/video, captions, 3D, charts, transitions, Tailwind, parameterization and rendering (Chinese, 30+ rules).",
+      "displayName": "Remotion Skills",
+      "displayName_i18n": { "zh-CN": "Remotion 视频创作技能库" },
+      "description_i18n": { "zh-CN": "Remotion 最佳实践 Agent Skill：动画、时序、序列、音视频、字幕、3D、图表、转场、Tailwind、参数化与渲染优化（中文，30+ 规则）。" },
+      "category": "productivity",
+      "keywords": ["remotion", "video", "react", "animation", "captions", "3d"]
+    }
+  ]
+}
